@@ -1,4 +1,4 @@
-![Banner](https://github.com/user-attachments/assets/c75a10bc-43e4-4a18-b13d-ad3f108c672b)
+![Banner](https://github.com/user-attachments/assets/c77b879f-1305-4cff-a207-aca2bae3c3f1)
 
 ## About
 ### Story
