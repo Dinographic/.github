@@ -11,8 +11,9 @@ User experience is at the heart of everything we do. We believe in taking care o
 
 Beyond design and functionality, we strive to make a positive impact on people's lives. Products tailored to specific audiences should not only meet their needs but also inspire and empower them by delivering exceptional value and usability.
 
-### Meaning of DinographicPixels
-DinographicPixels signifies "Graphism composed of pixels as gigantic as a dinosaur," emphasizing both the grandeur and scale of our creations. Additionally, the name highlights the dynamic and versatile nature of pixels, reflecting our innovative and adaptive approach to design. The name of the company is often shortened to Dinographic or DP, making it shorter to write.
+# Branding
+Our branding, specifically icon represents moving pixels, representing their dynamicity, the face on the main pixel represents the fact that uniting pixels can convey meaning, stories, the company's vision, emotions, and experiences. It is the foundation of all projects of ours. It represents the identity of the company, focusing on small details, and all this, has a bigger impact on the bigger picture.
+The other moving pixels are following the lead of the main one, proving that small, yet noticeable details can be broken down into particles, smaller entities that can merge together, and make brand new experiences.
 
 ### An issue? Need to contact us?
 Contact us: support@dinographicpixels.com, we'll have a close look at your request.
@@ -54,6 +55,6 @@ For business inquiries, contact: wade@dinographicpixels.com.
 - [Project website: TouchGuild](https://touchguild.com)
 
 #### More information:
-- Note that DinographicPixels isn't a corporation **yet** and is independent.
-- Working at DinographicPixels is not remunerated because of budget restrictions, we're hiring volunteers.
+- Note that Dinographic isn't a corporation **yet** and is independent.
+- Working at Dinographic is not remunerated because of budget restrictions, we're hiring volunteers.
 - Each repositories in this organization are made by Wade B. (@pakkographic).
